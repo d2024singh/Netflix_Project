@@ -99,3 +99,7 @@ Netflix Movies and TV Shows dataset from Kaggle
 
 with open("README.md", "w") as f:
     f.write(readme_content)
+## 📌 Business Recommendations
+- Netflix can further invest in international and regional content to expand global reach.
+- Focus on Drama and mature-rated content aligns well with current audience preferences.
+- Increasing TV show production may help improve long-term user engagement.
