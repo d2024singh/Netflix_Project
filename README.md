@@ -99,7 +99,10 @@ Netflix Movies and TV Shows dataset from Kaggle
 
 with open("README.md", "w") as f:
     f.write(readme_content)
-## 📌 Business Recommendations
-- Netflix can further invest in international and regional content to expand global reach.
-- Focus on Drama and mature-rated content aligns well with current audience preferences.
-- Increasing TV show production may help improve long-term user engagement.
+📌 Business Recommendations
+Based on the analysis of Netflix content data, the following business recommendations can be derived:
+🌍 Increase investment in international content, especially from high-performing regions like India and the UK, to strengthen Netflix’s global audience base.
+🎭 Since Drama and International genres dominate, Netflix should continue producing and promoting these categories while experimenting with sub-genres for differentiation.
+📺 Expand TV show production, as series help improve long-term user engagement and subscription retention compared to standalone movies.
+📆 The rapid growth in content after 2016 shows success; Netflix should maintain a consistent content release strategy to stay competitive in the streaming market.
+🔞 With a large portion of content rated TV-MA and TV-14, Netflix can focus targeted marketing on young adult and mature audiences while ensuring balanced family-friendly content.
